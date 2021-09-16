@@ -1,15 +1,17 @@
-Coronavirus-Tweet-Sentiment-Analysis
-Index
+# Coronavirus-Tweet-Sentiment-Analysis
+
+# Index
 1. Introduction
 2. Exploratory Data Analysis./Reviwing Our Dataset
 3. Data Preprocessing.
 4. Model Training- MULTICLASS AND BINARY.
 5. Evaluation.
 6. Conclusion
-1. Introduction
+
+# 1. Introduction
 Our objective is to build a classification model to predict the sentiment of COVID-19 tweets.The tweets have been pulled from Twitter and manual tagging has been done then. The names and usernames have been given codes to avoid any privacy concerns.
 
-image
+![image](https://user-images.githubusercontent.com/84126197/133555061-d39d739f-ae0a-42ea-9389-72acadcb4397.png)
 
 We are given the following information:
 Username: Unique user-IDs of the users
